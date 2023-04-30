@@ -1,0 +1,20 @@
+
+npm install react-router-dom@6 localforage match-sorter sort-by           [ install ] 
+
+*******************************************************************************************
+
+npm install react-bootstrap bootstrap@5.3.0-alpha1                        [ install ] 
+
+*******************************************************************************************
+
+npm install axios                                                         [ install ] 
+
+*******************************************************************************************
+
+npm i redux react-redux @reduxjs/toolkit redux-thunk                       [ install ] 
+
+*******************************************************************************************
+
+npm install -g json-server                                                   [  ] 
+json-server --watch db.json --port 9000
+

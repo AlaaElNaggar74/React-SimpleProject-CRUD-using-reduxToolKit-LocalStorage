@@ -1,0 +1,16 @@
+
+.form input,.form button{
+  height: 75px;
+}
+
+.headddAPP{
+  font-family:'Courier New', Courier, monospace;
+  font-weight: bold;
+  background-color: black;
+color: aqua;
+padding: 20px 0;
+}
+
+.posts:not(:last-child){
+  margin-bottom: 20px;
+}
